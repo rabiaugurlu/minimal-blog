@@ -1,0 +1,193 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid .navbar-brand {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.collapse ul li {
+    padding-left: 30px;
+}
+
+.collapse ul li:nth-child(2) {
+    padding: 0 180px 0 0;
+}
+
+.section1>.row {
+    margin-left: 100px;
+}
+
+.section1 h1 {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+    margin-top: 40px;
+}
+
+.section1 h1 img {
+    width: 70px;
+    height: 67px;
+    margin-bottom: 20px;
+    transform: rotate(-20deg);
+}
+
+.section1 .col-6>span {
+    color: #4A5568;
+    font-size: 30px;
+}
+
+.section2>.row {
+    padding: 113px 78px 43px 140px;
+}
+
+.section2 h2 {
+    color: #2D3748;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.section2 p {
+    color: #718096;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 27px 0 30px 0;
+}
+
+.section2 span,
+.section3 span,
+.section4 span {
+    color: #718096;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.section2 a img {
+    width: 433px;
+    height: 243px;
+}
+
+.btn {
+    margin-left: 205px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.section3>.row {
+    margin-left: 95px;
+    padding-right: 130px;
+}
+
+.section3 h3 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 18px 0 15px 0;
+    margin-left: 10px;
+}
+
+.section3 p {
+    color: #718096;
+    font-size: 14px;
+    line-height: 16px;
+    margin-left: 10px;
+}
+
+.section3 .btn {
+    margin-left: 85px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.section4>.row {
+    margin: 67px 90px 0 0;
+}
+
+.section4 .last {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 197px;
+}
+
+.section4 .last h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.section4 .last p {
+    color: #718096;
+}
+
+.section4 .btn {
+    margin: -20px 0 0 110px;
+}
+
+.section4 .last1 {
+    position: relative;
+}
+
+.section4 .button {
+    background-color: #6B46C1;
+    margin-top: 31px;
+    outline: none;
+    border-radius: 5px;
+    width: 122px;
+    height: 37px;
+    position: absolute;
+    right: 75px;
+    bottom: -65px;
+}
+
+.footer {
+    margin-top: 100px;
+}
+
+.footer span {
+    font-weight: 700;
+}
+
+.footer ul {
+    margin-right: 60px;
+}
+
+.footer ul li {
+    padding-left: 34px;
+}
+
+
+/*hero.html */
+
+.header img {
+    width: 1230px;
+    height: 380px;
+    margin-top: 45px;
+    margin-left: 60px;
+}
+
+.section h1 {
+    margin: 41px 0 19px 0;
+}
+
+.section h6 {
+    margin-bottom: 30px;
+}
+
+.section span {
+    font-weight: normal;
+    color: #718096;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.section p {
+    color: #718096;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 37px;
+}
