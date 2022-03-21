@@ -1,1 +1,1 @@
-# minimal-blog
+# Minimal blog
